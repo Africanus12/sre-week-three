@@ -23,5 +23,5 @@ while true; do
   fi
 
   # Wait for a while before the next check
-  sleep 90
+  sleep 60
 done
